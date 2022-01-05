@@ -48,9 +48,3 @@ main {
     padding-bottom: 3em;
     min-height: : 85%;
 }
-
-footer > nav > ul > li {
-    display: inline-block;
-    list-style: none;
-    margin: 0 5px 0 5px;
-}
